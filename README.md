@@ -1,48 +1,58 @@
 # 👋 Hi, I'm Johanna Cagua Mina  
-### 🌍 Travel-Tech Creator | Blockchain Student | Founder of NovaHalo
 
-✨ I’m building **NovaHalo**, an innovative blockchain-powered travel and aesthetic wellness platform focused on:  
-- Medical tourism (cosmetic, dental, hair, wellness)  
-- Exclusive aesthetic and beauty experiences  
-- Futuristic technology cities, mystery & supernatural-themed destinations  
-- Safe, personalized and ethically verified travel solutions  
-
-🎓 **Studying Financial Technology (Blockchain)** at Middlesex University  
-🌐 Experience in **Luxury Travel**, Spain & UK  
-💼 Founder of **Local Action Families UK CIC** & PR at Habitemos World CIC  
-🤖 Passionate about AI, Web3, travel innovation and human-centered design  
+🏥 Medical Concierge & Longevity Founder | FinTech MSc | UX-Certified | Bilingual EN/ES
 
 ---
 
-## 🚀 Current Projects
+## 🚀 What I'm Building
 
-### 🪐 **NovaHalo (Travel-Tech Platform)**
-A visionary travel-tech ecosystem integrating:  
-- Blockchain for trust, verification & transparent pricing  
-- AI-powered trip recommendations  
-- Premium cosmetic & wellness travel packages  
-- Secure, ethical and personalized travel pathways  
+### 🌐 [NovaHalo](https://novahalo.digital) — Premium Medical Concierge & Longevity Marketplace
 
-> Redefining beauty, technology and travel through transparency and innovation.
+NovaHalo connects private clients with world-class biotech and aesthetic clinics across 
+**South Korea, Brazil, and Spain** — with full concierge coordination, clinical vetting, 
+and end-to-end client experience management.
 
-### 🏛 **Local Action Families UK **  
-A community-focused social enterprise supporting families, inclusion, empowerment and positive action across the UK.
+- Two-sided marketplace: B2B clinic partnerships + B2C private client journeys
+- Focus areas: regenerative medicine, autologous stem cell therapy, aesthetic innovation, 
+  and longevity protocols
+- Active clinic partnerships across São Paulo, Seoul, and Barcelona
+- Built on a "less is more, more exclusive" brand philosophy
 
+> Redefining how high-net-worth individuals access advanced healthcare globally.
+
+---
+
+## 🎓 Education & Certifications
+
+📚 **MSc Financial Technology** — Middlesex University London *(in progress)*
+- 🎨 **UX Design Certificate** — Lloyds Banking Group / Forage (2025)
+- ✈️ **BA Tourism** — Sunderland University
 ---
 
 ## 🛠 Tech & Tools
-- Blockchain (beginner)  
-- Web3 fundamentals  
-- Travel-tech systems  
-- Data-driven travel design  
-- AI-assisted planning & automation  
+
+- Python · Streamlit · Jupyter Notebooks
+- UX Research & Conversion Rate Optimisation (CRO)
+- AI-assisted workflows & automation
+- Notion · GitHub · Hostinger
+- Financial modelling & FinTech fundamentals
 
 ---
 
-## 📫 Connect with me
-- ✉ joha.cagua@gmail.com  
-- 🌐 NovaHalo website (in development)  
-- 💼 LinkedIn: (https://www.linkedin.com/in/johanna-cagua91/)
+## 🏛 Community Work
 
-✨ *Let’s build the future of travel, together.*  
+**Local Action Families UK CIO** — Social enterprise supporting families, 
+inclusion and empowerment across the UK.
+
+---
+
+## 📫 Connect
+
+- ✉️ joha.cagua@gmail.com
+- 🌐 [novahalo.digital](https://novahalo.digital)
+- 💼 [LinkedIn](https://www.linkedin.com/in/johanna-cagua91/)
+
+---
+
+*Building the future of private healthcare access — one clinic partnership at a time.*
 
